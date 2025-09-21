@@ -1,15 +1,12 @@
 # Authentication in Node.js (bcrypt + JWT)
 
 
-This repository is a simple implementation of the assignment described in the provided PDF. It includes:
+It is a simple implementation of the assignment described in the provided PDF. It includes:
 
 
 - **Password Hashing** using `bcrypt`.
 - **JWT Authentication** using `jsonwebtoken`.
-- In-memory user storage (no database required).
-
-
-> Assignment reference: Password hashing and JWT authentication tasks as provided in the assignment PDF. fileciteturn0file0
+- In-memory user storage (no database required). Password hashing and JWT authentication.
 
 
 ## Files
